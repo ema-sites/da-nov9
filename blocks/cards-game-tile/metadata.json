@@ -1,0 +1,18 @@
+{
+  "variantName": "cards-game-tile",
+  "baseBlock": "cards",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Featured games and promotions tile grid",
+    "description": "White shadowed tiles in a 2-up grid: image with optional overlay strip (jackpot amounts) and corner NEW badge, title, short description, optional next-draw details, full-width pill CTA pinned to the bottom."
+  },
+  "contentPattern": {
+    "structure": "cell 1 = image (plus optional text lines shown as an overlay strip on the image); cell 2 = title (heading or first line), description, optional draw details, CTA link as the last link-only paragraph; cell 3 (optional) = badge text such as NEW",
+    "description": "Repeating look-alike tiles (image, title, description, CTA) that wrap in a grid and each link to a game/detail page."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Featured games/promotions grid, typically in the wide column of a split section next to a rail of promo images.",
+  "reuseGuidance": "Use for game or product tiles with a CTA each. Image-only promo links belong in a separate block or default content.",
+  "sourceUrl": "https://www.alc.ca/content/alc/en.html"
+}

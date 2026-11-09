@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.alc.ca/content/alc/en/interact-redirect.html",
+  "title": "interact-redirect",
+  "timestamp": "2026-11-09T15:48:07.554Z",
+  "duration": "5.6s",
+  "cleanup": {
+    "elementsRemoved": 0,
+    "types": [],
+    "cookieConsentDismissed": false,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": []
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [],
+  "skeleton": {
+    "signature": "s(s,s)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div:nth-of-type(1)",
+      "rc2": "body > div.root.responsivegrid"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div:nth-of-type(1)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.root.responsivegrid",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "error": "no content box"
+  },
+  "blocks": []
+}

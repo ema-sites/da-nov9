@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.alc.ca/content/alc/en/corporate/playwise.html",
+  "title": "PlayWise | Atlantic Lottery Corporation",
+  "timestamp": "2026-11-09T15:49:19.949Z",
+  "duration": "7.4s",
+  "cleanup": {
+    "elementsRemoved": 15,
+    "types": [
+      "popup"
+    ],
+    "cookieConsentDismissed": false,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#loginFlow",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      },
+      {
+        "selector": "div.common-modals.aem-GridColumn",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lottomax.img.png/1711557921551.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto649.img.png/1662887407810.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/dailygrand.img.png/1595411787611.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto.img.png/1595411784994.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.img.png/1711033977825.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/proline.img.png/1711557988346.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/scratch-n-win.img.png/1595411780747.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/lotto.img.png/1595411791161.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/video-lottery.img.png/1711558293081.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/instant-win-games.img.png/1711033977726.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/proline.img.png/1711558304828.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/abonnements-subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/contests-and-promotions.img.png/1784049786620.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/rewards.img.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/playwise/_jcr_content/root/container_1892161674/image.coreimg.png/1723655719136/playwise-en.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/playwise/_jcr_content/root/container/container/container/teaser_copy.coreimg.jpeg/1762954549679/playwise-healthy-play-tools.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/playwise/_jcr_content/root/container/container/container/teaser_copy_copy.coreimg.jpeg/1762954544739/alc-playwise.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/playwise/_jcr_content/root/container/container/container/teaser_copy_19378737.coreimg.jpeg/1762954580893/playwise-gambling-support.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/playwise/_jcr_content/root/container/container_236637736_/container/teaser.coreimg.jpeg/1762954658796/playwise-know-the-facts.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/playwise/_jcr_content/root/container/container_236637736__600516855/container/teaser.coreimg.jpeg/1762954685232/playwise-healthy-play.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-sprite-2.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Clock.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/spinner.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Wallet_Dollar_Sign.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/navigation/Side-image-for-Mega-Menu.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/Facebook.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/instagram.png",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s,s(sB(s,s,s),s(3x1,2x1B,2x1),4x3B(s,s)))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div:nth-of-type(1)",
+      "rc2": "body > div.cmp-page__skiptomaincontent",
+      "rc3": "body > div.root.responsivegrid",
+      "rc3c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--pw-landing-hero-padding.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c1c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--pw-landing-hero-padding.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--md--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.breadcrumb.cmp-breadcrumb--default.cmp-breadcrumb--hero.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c1c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--pw-landing-hero-padding.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--md--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.image.cmp-image--original-size.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c1c3": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--pw-landing-hero-padding.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--md--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.title.cmp-title--blue.cmp-title--text-center.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+      "rc3c2c1": "#skip-to-main-content > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--desktop-xl-padding.cmp-container--mobile-no-padding.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(1)",
+      "rc3c2c2": "#skip-to-main-content > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--desktop-xl-padding.cmp-container--mobile-no-padding.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(2)",
+      "rc3c2c3": "#skip-to-main-content > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--desktop-xl-padding.cmp-container--mobile-no-padding.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+      "rc3c3": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.experiencefragment.cmp-experiencefragment--gambling-helplines.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c3c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.experiencefragment.cmp-experiencefragment--gambling-helplines.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-experiencefragment.cmp-experiencefragment--gambling-helplines > div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--fixed.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.title.cmp-title--text-lg.cmp-title--blue.cmp-title--text-center.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c3c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.experiencefragment.cmp-experiencefragment--gambling-helplines.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-experiencefragment.cmp-experiencefragment--gambling-helplines > div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--fixed.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.text.aem-GridColumn--offset--xs--0.aem-GridColumn--xs--hide.aem-GridColumn.aem-GridColumn--default--12.aem-GridColumn--xs--12"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div:nth-of-type(1)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.cmp-page__skiptomaincontent",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--pw-landing-hero-padding.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block",
+        "background": "#e5f5fc",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--pw-landing-hero-padding.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container"
+      },
+      {
+        "id": "rc4",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc5",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.experiencefragment.cmp-experiencefragment--gambling-helplines.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": "4x3",
+        "hasBg": true,
+        "hint": "block",
+        "background": "#f4f5f6",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.experiencefragment.cmp-experiencefragment--gambling-helplines.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-experiencefragment.cmp-experiencefragment--gambling-helplines"
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 554.015625,
+      "height": 1516.375
+    },
+    "splits": [
+      {
+        "selector": "div.cmp-teaser > div.cmp-teaser__content",
+        "sides": [
+          [
+            0.7421052631578947,
+            0.7947368421052632
+          ]
+        ],
+        "top": 1314.390625,
+        "bottom": 1596.390625,
+        "cover": 0.18596982936278955,
+        "above": 2
+      },
+      {
+        "selector": "div.cmp-teaser > div.cmp-teaser__content",
+        "sides": [
+          [
+            0.22601310432384317,
+            0.22601310432384317
+          ]
+        ],
+        "top": 1724.390625,
+        "bottom": 2006.390625,
+        "cover": 0.18596982936278955,
+        "above": 3
+      }
+    ],
+    "start": {
+      "kind": "repeated cards"
+    }
+  },
+  "blocks": [
+    {
+      "id": "f4ab4dc5e5e1",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-b14fca6248 > div > div.breadcrumb.cmp-breadcrumb--default.cmp-breadcrumb--hero.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 141,
+        "width": 1440,
+        "height": 49
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "list + link"
+      },
+      "description": "breadcrumb",
+      "features": {
+        "skeleton": "nav",
+        "variant": "nav",
+        "variantClean": "nav"
+      },
+      "screenshot": "blocks/f4ab4dc5e5e1.jpg",
+      "html": "blocks/f4ab4dc5e5e1.html"
+    },
+    {
+      "id": "e5c7682aff28",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-b14fca6248 > div > div.image.cmp-image--original-size.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 221,
+        "width": 1440,
+        "height": 98
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "image"
+      },
+      "description": "image",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/e5c7682aff28.html"
+    },
+    {
+      "id": "75063d2a19fa",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-b14fca6248 > div > div.title.cmp-title--blue.cmp-title--text-center.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 319,
+        "width": 1440,
+        "height": 61
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tc",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/75063d2a19fa.html"
+    },
+    {
+      "id": "d67920a978ca",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-b14fca6248 > div > div.text.cmp-text--mt-medium.aem-GridColumn--sm--none.aem-GridColumn--default--none.aem-GridColumn--sm--8.aem-GridColumn--offset--xs--0.aem-GridColumn--offset--default--4.aem-GridColumn--xs--none.aem-GridColumn--offset--sm--2.aem-GridColumn--offset--md--3.aem-GridColumn.aem-GridColumn--md--6.aem-GridColumn--xs--12.aem-GridColumn--default--4.aem-GridColumn--md--none",
+      "bounds": {
+        "x": 480,
+        "y": 380,
+        "width": 480,
+        "height": 117
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/d67920a978ca.html"
+    },
+    {
+      "id": "e14a1d09fdad",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div:nth-child(1)",
+      "bounds": {
+        "x": 0,
+        "y": 554,
+        "width": 1440,
+        "height": 696
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + text + link + image"
+      },
+      "description": "alc-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tcnw]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": "blocks/e14a1d09fdad.jpg",
+      "html": "blocks/e14a1d09fdad.html"
+    },
+    {
+      "id": "9411584d9951",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div:nth-child(2)",
+      "bounds": {
+        "x": 0,
+        "y": 1250,
+        "width": 1440,
+        "height": 410
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + text + link + image"
+      },
+      "description": "alc-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tcnw|T]",
+        "variantClean": "[Tk|T]"
+      },
+      "screenshot": "blocks/9411584d9951.jpg",
+      "html": "blocks/9411584d9951.html"
+    },
+    {
+      "id": "9b3f4597fa88",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div:nth-child(3)",
+      "bounds": {
+        "x": 0,
+        "y": 1660,
+        "width": 1440,
+        "height": 410
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + text + link + image"
+      },
+      "description": "alc-container",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tcnw|T]",
+        "variantClean": "[Tk|T]"
+      },
+      "screenshot": "blocks/9b3f4597fa88.jpg",
+      "html": "blocks/9b3f4597fa88.html"
+    },
+    {
+      "id": "d999b9392596",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-12a1f471bf > div > div.title.cmp-title--text-lg.cmp-title--blue.cmp-title--text-center.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 140,
+        "y": 2118,
+        "width": 1160,
+        "height": 81
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tc",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/d999b9392596.html"
+    },
+    {
+      "id": "98dfe8d39f90",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-12a1f471bf > div > div.text.aem-GridColumn--offset--xs--0.aem-GridColumn--xs--hide.aem-GridColumn.aem-GridColumn--default--12.aem-GridColumn--xs--12",
+      "bounds": {
+        "x": 140,
+        "y": 2199,
+        "width": 1160,
+        "height": 59
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/98dfe8d39f90.html"
+    },
+    {
+      "id": "0da120e77416",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-12a1f471bf > div > div:nth-child(4)",
+      "bounds": {
+        "x": 140,
+        "y": 2258,
+        "width": 290,
+        "height": 80
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/0da120e77416.html"
+    },
+    {
+      "id": "23cc3d46a5ff",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-12a1f471bf > div > div:nth-child(5)",
+      "bounds": {
+        "x": 430,
+        "y": 2258,
+        "width": 290,
+        "height": 57
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/23cc3d46a5ff.html"
+    },
+    {
+      "id": "49a7b56ab4bd",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-12a1f471bf > div > div:nth-child(6)",
+      "bounds": {
+        "x": 720,
+        "y": 2258,
+        "width": 290,
+        "height": 57
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/49a7b56ab4bd.html"
+    },
+    {
+      "id": "a6544d64f18c",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-12a1f471bf > div > div:nth-child(7)",
+      "bounds": {
+        "x": 1010,
+        "y": 2258,
+        "width": 290,
+        "height": 57
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a6544d64f18c.html"
+    }
+  ]
+}

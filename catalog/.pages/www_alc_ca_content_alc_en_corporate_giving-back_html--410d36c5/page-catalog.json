@@ -1,0 +1,957 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.alc.ca/content/alc/en/corporate/giving-back.html",
+  "title": "Giving Back",
+  "timestamp": "2026-11-09T15:49:26.422Z",
+  "duration": "7.4s",
+  "cleanup": {
+    "elementsRemoved": 16,
+    "types": [
+      "popup"
+    ],
+    "cookieConsentDismissed": false,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#loginFlow",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      },
+      {
+        "selector": "div.common-modals.aem-GridColumn",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      },
+      {
+        "selector": "div.gradient-overlay",
+        "type": "popup",
+        "rule": "body [class*=\"overlay\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lottomax.img.png/1711557921551.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto649.img.png/1662887407810.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/dailygrand.img.png/1595411787611.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto.img.png/1595411784994.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.img.png/1711033977825.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/proline.img.png/1711557988346.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/scratch-n-win.img.png/1595411780747.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/lotto.img.png/1595411791161.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/video-lottery.img.png/1711558293081.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/instant-win-games.img.png/1711033977726.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/proline.img.png/1711558304828.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/abonnements-subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/contests-and-promotions.img.png/1784049786620.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/rewards.img.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.300.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.400.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.500.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.600.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.700.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.800.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.900.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.1000.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.1100.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.1200.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser.coreimg.100.1900.png/1792521084856/new-brunswick-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.300.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.400.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.500.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.600.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.700.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.800.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.900.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.1000.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.1100.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.1200.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_2053720621.coreimg.100.1900.png/1792521099439/newfoundland-and-labrador-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.300.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.400.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.500.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.600.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.700.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.800.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.900.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.1000.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.1100.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.1200.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_1452833928.coreimg.100.1900.png/1792521112774/nova-scotia-thumbnail-3.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.png/1792521127798/pei-thumbnail-1.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.300.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.400.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.500.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.600.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.700.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.800.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.900.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.1000.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.1100.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.1200.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container_1463814477/teaser_copy_180324177.coreimg.100.1900.png/1792521127798/pei-thumbnail-1.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.300.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.400.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.500.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.600.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.700.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.800.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.900.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.1000.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.1100.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.1200.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_copy.coreimg.100.1900.jpeg/1781888479022/sp-promo-tile-r-690x185-cbmf.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.png/1787155002333/charitable-support---imageresize.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.300.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.400.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.500.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.600.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.700.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.800.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.900.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.1000.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.1100.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.1200.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/teaser_copy_19378737.coreimg.100.1900.png/1787155002333/charitable-support---imageresize.png",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.300.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.400.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.500.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.600.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.700.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.800.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.900.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.1000.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.1100.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.1200.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/_jcr_content/root/container/container/teaser.coreimg.100.1900.jpeg/1783506797873/committed-to-social-responsibility-sp-promo-tile-r-690x185.jpeg",
+      "type": "srcset"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-sprite-2.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Clock.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/spinner.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Wallet_Dollar_Sign.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/navigation/Side-image-for-Mega-Menu.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/corporate/giving-back/jcr:content/root/container/hero/imageD.img.jpg/1791382943204.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Corporate/GivingBack/provbg.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/Facebook.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/instagram.png",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s,s(s(sB,s,4x5B(s,s,s),s,s,s,s(2x1,s)),s))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div:nth-of-type(1)",
+      "rc2": "body > div.cmp-page__skiptomaincontent",
+      "rc3": "body > div.root.responsivegrid",
+      "rc3c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c1c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.hero.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c1c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.breadcrumb.cmp-breadcrumb--default.cmp-breadcrumb--hero.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c1c3": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.alc-container.cmp-container--text-color-light.cmp-container--desktop-align-center.cmp-container--mobile-align-center.cmp-container--bg-center.aem-GridColumn--sm--none.aem-GridColumn--default--none.aem-GridColumn--offset--sm--1.aem-GridColumn--offset--xs--0.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--offset--default--0.aem-GridColumn--xs--12",
+      "rc3c1c3c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.alc-container.cmp-container--text-color-light.cmp-container--desktop-align-center.cmp-container--mobile-align-center.cmp-container--bg-center.aem-GridColumn--sm--none.aem-GridColumn--default--none.aem-GridColumn--offset--sm--1.aem-GridColumn--offset--xs--0.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--offset--default--0.aem-GridColumn--xs--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--10.aem-Grid--xs--12 > div.text.aem-GridColumn.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--xs--12:nth-of-type(1)",
+      "rc3c1c3c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.alc-container.cmp-container--text-color-light.cmp-container--desktop-align-center.cmp-container--mobile-align-center.cmp-container--bg-center.aem-GridColumn--sm--none.aem-GridColumn--default--none.aem-GridColumn--offset--sm--1.aem-GridColumn--offset--xs--0.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--offset--default--0.aem-GridColumn--xs--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--10.aem-Grid--xs--12 > span.alc-button.aem-GridColumn.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--xs--12",
+      "rc3c1c3c3": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.alc-container.cmp-container--text-color-light.cmp-container--desktop-align-center.cmp-container--mobile-align-center.cmp-container--bg-center.aem-GridColumn--sm--none.aem-GridColumn--default--none.aem-GridColumn--offset--sm--1.aem-GridColumn--offset--xs--0.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--offset--default--0.aem-GridColumn--xs--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--10.aem-Grid--xs--12 > div.text.aem-GridColumn.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--xs--12:nth-of-type(7)",
+      "rc3c1c4": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.text.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c1c5": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.separator.aem-GridColumn--offset--sm--2.aem-GridColumn--sm--none.aem-GridColumn--offset--xs--1.aem-GridColumn--default--none.aem-GridColumn--sm--8.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--8.aem-GridColumn--offset--default--2.aem-GridColumn--xs--10:nth-of-type(11)",
+      "rc3c1c6": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.separator.aem-GridColumn--offset--sm--2.aem-GridColumn--sm--none.aem-GridColumn--offset--xs--1.aem-GridColumn--default--none.aem-GridColumn--sm--8.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--8.aem-GridColumn--offset--default--2.aem-GridColumn--xs--10:nth-of-type(15)",
+      "rc3c1c7": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(16)",
+      "rc3c1c7c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(16) > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.teaser.cmp-teaser--default.cmp-teaser--horizontal-left.cmp-teaser--title-gray.aem-GridColumn--offset--sm--2.aem-GridColumn--sm--none.aem-GridColumn--offset--xs--1.aem-GridColumn--default--none.aem-GridColumn--sm--8.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--8.aem-GridColumn--offset--default--2.aem-GridColumn--xs--10",
+      "rc3c1c7c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(16) > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--sm--12.aem-Grid--xs--12 > div.text.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.aem-GridColumn.aem-GridColumn--default--12"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div:nth-of-type(1)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.cmp-page__skiptomaincontent",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > section.alc-container.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc4",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 140.84375,
+      "height": 2572.875
+    },
+    "splits": [],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Ubuntu, Helvetica, Arial, sans-serif",
+        "color": "rgb(78, 91, 104)",
+        "align": "center"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "a5d5a556af15",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#container-21e7ad76f5 > div > div.hero.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 0,
+        "y": 141,
+        "width": 1440,
+        "height": 405
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "hero",
+      "features": {
+        "skeleton": "~@",
+        "variant": "~@",
+        "variantClean": "~@"
+      },
+      "screenshot": "blocks/a5d5a556af15.jpg",
+      "html": "blocks/a5d5a556af15.html"
+    },
+    {
+      "id": "1692855f3e9c",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-21e7ad76f5 > div > div:nth-child(4)",
+      "bounds": {
+        "x": 360,
+        "y": 602,
+        "width": 720,
+        "height": 61
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/1692855f3e9c.html"
+    },
+    {
+      "id": "a8e5f01715de",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-21e7ad76f5 > div > div:nth-child(5)",
+      "bounds": {
+        "x": 360,
+        "y": 662,
+        "width": 720,
+        "height": 54
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a8e5f01715de.html"
+    },
+    {
+      "id": "449c9f9fef1b",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-21e7ad76f5 > div > div.alc-container.cmp-container--text-color-light.cmp-container--desktop-align-center.cmp-container--mobile-align-center.cmp-container--bg-center.aem-GridColumn--sm--none.aem-GridColumn--default--none.aem-GridColumn--offset--sm--1.aem-GridColumn--offset--xs--0.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--12.aem-GridColumn--sm--10.aem-GridColumn--offset--default--0.aem-GridColumn--xs--12",
+      "bounds": {
+        "x": 0,
+        "y": 772,
+        "width": 1440,
+        "height": 514
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "dense",
+        "imagePattern": "large",
+        "hasGrid": true,
+        "structure": "text + link + image + heading"
+      },
+      "description": "alc-container",
+      "features": {
+        "skeleton": "~@([T] T)",
+        "variant": "~@([Tw] Tw)",
+        "variantClean": "~@([Tw] Tw)"
+      },
+      "screenshot": "blocks/449c9f9fef1b.jpg",
+      "html": "blocks/449c9f9fef1b.html"
+    },
+    {
+      "id": "f0375cc26fce",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-21e7ad76f5 > div > div:nth-child(9)",
+      "bounds": {
+        "x": 360,
+        "y": 1365,
+        "width": 720,
+        "height": 54
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tn",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/f0375cc26fce.html"
+    },
+    {
+      "id": "383935228b15",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-21e7ad76f5 > div > div:nth-child(10)",
+      "bounds": {
+        "x": 360,
+        "y": 1419,
+        "width": 720,
+        "height": 79
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/383935228b15.html"
+    },
+    {
+      "id": "59926e5f4cd5",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#teaser-936fa0267a > div.cmp-teaser__content",
+      "bounds": {
+        "x": 250,
+        "y": 1780,
+        "width": 460,
+        "height": 292
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "cmp-teaser-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~w(Tn)",
+        "variantClean": "~w(Tk)"
+      },
+      "screenshot": "blocks/59926e5f4cd5.jpg",
+      "html": "blocks/59926e5f4cd5.html"
+    },
+    {
+      "id": "9b0f480d622d",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#teaser-936fa0267a > div.cmp-teaser__image",
+      "bounds": {
+        "x": 250,
+        "y": 1595,
+        "width": 460,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "image"
+      },
+      "description": "cmp-teaser-image",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/9b0f480d622d.html"
+    },
+    {
+      "id": "49a2f9e09e3c",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#teaser-f5a77a9efe > div.cmp-teaser__content",
+      "bounds": {
+        "x": 730,
+        "y": 1780,
+        "width": 460,
+        "height": 246
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text"
+      },
+      "description": "cmp-teaser-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~w(Tn)",
+        "variantClean": "~w(Tk)"
+      },
+      "screenshot": "blocks/49a2f9e09e3c.jpg",
+      "html": "blocks/49a2f9e09e3c.html"
+    },
+    {
+      "id": "4b9305c918d8",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#teaser-f5a77a9efe > div.cmp-teaser__image",
+      "bounds": {
+        "x": 730,
+        "y": 1595,
+        "width": 460,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "image"
+      },
+      "description": "cmp-teaser-image",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/4b9305c918d8.html"
+    },
+    {
+      "id": "f76463e1659b",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#teaser-32cf3060ed > div > div.cmp-teaser__action-container",
+      "bounds": {
+        "x": 490,
+        "y": 2154,
+        "width": 460,
+        "height": 45
+      },
+      "visualChars": {
+        "colorScheme": "dark",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link"
+      },
+      "description": "cmp-teaser-action-container",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tw",
+        "variantClean": "Tw"
+      },
+      "screenshot": "blocks/f76463e1659b.jpg",
+      "html": "blocks/f76463e1659b.html"
+    },
+    {
+      "id": "a194d5027ed4",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#container-e4a21278ac > div > div.teaser.cmp-teaser--default.cmp-teaser--horizontal-left.cmp-teaser--title-gray.aem-GridColumn--offset--sm--2.aem-GridColumn--sm--none.aem-GridColumn--offset--xs--1.aem-GridColumn--default--none.aem-GridColumn--sm--8.aem-GridColumn.aem-GridColumn--xs--none.aem-GridColumn--default--8.aem-GridColumn--offset--default--2.aem-GridColumn--xs--10",
+      "bounds": {
+        "x": 240,
+        "y": 2316,
+        "width": 960,
+        "height": 319
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + text + link + image"
+      },
+      "description": "teaser",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tnw|T]",
+        "variantClean": "[Tk|T]"
+      },
+      "screenshot": "blocks/a194d5027ed4.jpg",
+      "html": "blocks/a194d5027ed4.html"
+    }
+  ]
+}

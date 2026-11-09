@@ -1,0 +1,18 @@
+{
+  "variantName": "carousel-winners",
+  "baseBlock": "carousel",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Recent-winners spotlight slider",
+    "description": "Each slide shows a circular winner portrait, name and city, a See all winners pill CTA, and a prize panel (game logo, Winner label, boxed prize amount) over a graphic background. Side chevrons and dots below."
+  },
+  "contentPattern": {
+    "structure": "optional first row with a single image cell = block background graphic; then one row per winner: cell 1 = winner photo (image only), cell 2 = name, location, CTA link, cell 3 (optional) = game logo image, label (e.g. Winner) and prize amount (last line)",
+    "description": "Interactive slider of winner slides with navigation chevrons and dots."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Recent winners section; author the section heading as default content above the block.",
+  "reuseGuidance": "Use for person-plus-prize spotlights. For plain image banners use carousel-promo.",
+  "sourceUrl": "https://www.alc.ca/content/alc/en.html"
+}

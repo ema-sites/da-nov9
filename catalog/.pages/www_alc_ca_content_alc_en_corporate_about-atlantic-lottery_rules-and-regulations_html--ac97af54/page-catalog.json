@@ -1,0 +1,404 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/rules-and-regulations.html",
+  "title": "rules-and-regulations",
+  "timestamp": "2026-11-09T15:50:01.163Z",
+  "duration": "8.0s",
+  "cleanup": {
+    "elementsRemoved": 14,
+    "types": [
+      "popup"
+    ],
+    "cookieConsentDismissed": false,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#loginFlow",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      },
+      {
+        "selector": "div.alc-modal.modal-browser-check",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lottomax.img.png/1711557921551.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto649.img.png/1662887407810.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/dailygrand.img.png/1595411787611.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto.img.png/1595411784994.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.img.png/1711033977825.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/proline.img.png/1711557988346.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/scratch-n-win.img.png/1595411780747.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/lotto.img.png/1595411791161.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/video-lottery.img.png/1711558293081.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/instant-win-games.img.png/1711033977726.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/proline.img.png/1711558304828.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/abonnements-subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/contests-and-promotions.img.png/1784049786620.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/rewards.img.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-sprite-2.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Clock.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/spinner.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Wallet_Dollar_Sign.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/navigation/Side-image-for-Mega-Menu.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/alc-images/background.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/Facebook.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/instagram.png",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s,s,s,s(s(s,s),s,sB(sB,2x1B),s))",
+    "nodeMap": {
+      "r": "#page-rules-and-regulations",
+      "rc1": "#page-rules-and-regulations > div:nth-of-type(1)",
+      "rc2": "#page-rules-and-regulations > div.cmp-page__skiptomaincontent",
+      "rc3": "#page-rules-and-regulations > div:nth-of-type(4)",
+      "rc4": "#page-breadcrumb",
+      "rc5": "#page-rules-and-regulations > div.online-corporate-detail",
+      "rc5c1": "#page-rules-and-regulations > div.online-corporate-detail > div.hero",
+      "rc5c1c1": "#page-rules-and-regulations > div.online-corporate-detail > div.hero > div:nth-of-type(1)",
+      "rc5c1c2": "#page-rules-and-regulations > div.online-corporate-detail > div.hero > div:nth-of-type(2)",
+      "rc5c2": "#skip-to-main-content",
+      "rc5c3": "#page-rules-and-regulations > div.online-corporate-detail > div.body-content",
+      "rc5c3c1": "#page-rules-and-regulations > div.online-corporate-detail > div.body-content > div.blue-bar",
+      "rc5c3c2": "#page-rules-and-regulations > div.online-corporate-detail > div.body-content > div.container.white-bg",
+      "rc5c4": "#page-rules-and-regulations > div.online-corporate-detail > div.full-width-promo-container.container-fluid"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#page-rules-and-regulations > div:nth-of-type(1)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "#page-rules-and-regulations > div.cmp-page__skiptomaincontent",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc3",
+        "selector": "#page-rules-and-regulations > div:nth-of-type(4)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc4",
+        "selector": "#page-breadcrumb",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc5",
+        "selector": "#page-rules-and-regulations > div.online-corporate-detail > div.hero",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc6",
+        "selector": "#skip-to-main-content",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc7",
+        "selector": "#page-rules-and-regulations > div.online-corporate-detail > div.body-content",
+        "layout": null,
+        "hasBg": true,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": "url",
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc8",
+        "selector": "#page-rules-and-regulations > div.online-corporate-detail > div.full-width-promo-container.container-fluid",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 140.84375,
+      "height": 4977.6875
+    },
+    "splits": [],
+    "start": {
+      "kind": "text on photo"
+    }
+  },
+  "blocks": [
+    {
+      "id": "f6f7e9f15c62",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#page-breadcrumb",
+      "bounds": {
+        "x": 0,
+        "y": 141,
+        "width": 1440,
+        "height": 54
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "[T]",
+        "variant": "[Tc|Tn]",
+        "variantClean": "[Tk]"
+      },
+      "screenshot": null,
+      "html": "blocks/f6f7e9f15c62.html"
+    },
+    {
+      "id": "f545305903f6",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#page-rules-and-regulations > div.online-corporate-detail > div.body-content > div.blue-bar",
+      "bounds": {
+        "x": 0,
+        "y": 141,
+        "width": 1440,
+        "height": 50
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "blue-bar",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~c(Tw)",
+        "variantClean": "~c(Tw)"
+      },
+      "screenshot": "blocks/f545305903f6.jpg",
+      "html": "blocks/f545305903f6.html"
+    },
+    {
+      "id": "6b6fc53b447b",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#page-rules-and-regulations > div.online-corporate-detail > div.body-content > div.container.white-bg",
+      "bounds": {
+        "x": 140,
+        "y": 191,
+        "width": 1160,
+        "height": 4907
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "dense",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + text + link"
+      },
+      "description": "container",
+      "features": {
+        "skeleton": "~([T*2|~(T)])",
+        "variant": "~w([Tbc*2|~w(Tcn)])",
+        "variantClean": "~w([Tk*2|~w(Tk)])"
+      },
+      "screenshot": "blocks/6b6fc53b447b.jpg",
+      "html": "blocks/6b6fc53b447b.html"
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.alc.ca/content/alc/en/short-break-confirmation.html",
+  "title": "Short Break Confirmation",
+  "timestamp": "2026-11-09T15:48:58.287Z",
+  "duration": "6.8s",
+  "cleanup": {
+    "elementsRemoved": 15,
+    "types": [
+      "popup"
+    ],
+    "cookieConsentDismissed": false,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#loginFlow",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      },
+      {
+        "selector": "div.common-modals.aem-GridColumn",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lottomax.img.png/1711557921551.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto649.img.png/1662887407810.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/dailygrand.img.png/1595411787611.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto.img.png/1595411784994.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.img.png/1711033977825.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/proline.img.png/1711557988346.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/scratch-n-win.img.png/1595411780747.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/lotto.img.png/1595411791161.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/video-lottery.img.png/1711558293081.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/instant-win-games.img.png/1711033977726.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/proline.img.png/1711558304828.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/abonnements-subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/contests-and-promotions.img.png/1784049786620.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/rewards.img.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/MyAccount/playwise-tools/Success.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/MyAccount/playwise-tools/info.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-sprite-2.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Clock.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/spinner.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Wallet_Dollar_Sign.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/navigation/Side-image-for-Mega-Menu.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/Facebook.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/instagram.png",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s,s(s,4x3B(s,s)))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div:nth-of-type(1)",
+      "rc2": "body > div.cmp-page__skiptomaincontent",
+      "rc3": "body > div.root.responsivegrid",
+      "rc3c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--padding-medium.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+      "rc3c2c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > section.experiencefragment.cmp-experiencefragment--gambling-helplines > div.cmp-experiencefragment.cmp-experiencefragment--gambling-helplines > div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--fixed.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.title.cmp-title--text-lg.cmp-title--blue.cmp-title--text-center.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c2c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > section.experiencefragment.cmp-experiencefragment--gambling-helplines > div.cmp-experiencefragment.cmp-experiencefragment--gambling-helplines > div.xf-content-height > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.responsivegrid.aem-GridColumn.aem-GridColumn--default--12 > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--fixed.aem-GridColumn.aem-GridColumn--default--12 > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.text.aem-GridColumn--offset--xs--0.aem-GridColumn--xs--hide.aem-GridColumn.aem-GridColumn--default--12.aem-GridColumn--xs--12"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div:nth-of-type(1)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.cmp-page__skiptomaincontent",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.cmp-container--padding-medium.aem-GridColumn.aem-GridColumn--default--12",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc4",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+        "layout": "4x3",
+        "hasBg": true,
+        "hint": "block",
+        "background": "#f4f5f6",
+        "backgroundImage": null,
+        "colored": true,
+        "paintSelector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > section.experiencefragment.cmp-experiencefragment--gambling-helplines > div.cmp-experiencefragment.cmp-experiencefragment--gambling-helplines"
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 140.84375,
+      "height": 1259.875
+    },
+    "splits": [],
+    "start": {
+      "kind": "photo"
+    }
+  },
+  "blocks": [
+    {
+      "id": "6476359c37a0",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > img",
+      "bounds": {
+        "x": 690,
+        "y": 197,
+        "width": 60,
+        "height": 60
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "break-confirmation-icon",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/6476359c37a0.html"
+    },
+    {
+      "id": "dac37846b123",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > h1",
+      "bounds": {
+        "x": 499,
+        "y": 293,
+        "width": 443,
+        "height": 46
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "break-confirmation-title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tc",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/dac37846b123.html"
+    },
+    {
+      "id": "3f219adb7c76",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > h4",
+      "bounds": {
+        "x": 499,
+        "y": 355,
+        "width": 443,
+        "height": 25
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "break-confirmation-subtitle",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/3f219adb7c76.html"
+    },
+    {
+      "id": "46b26e8092c2",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > div.break-confirmation__body",
+      "bounds": {
+        "x": 499,
+        "y": 396,
+        "width": 443,
+        "height": 604
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "list + text"
+      },
+      "description": "break-confirmation-body",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tn",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/46b26e8092c2.html"
+    },
+    {
+      "id": "db715cd7434a",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > div.break-confirmation__toast-notification",
+      "bounds": {
+        "x": 499,
+        "y": 1032,
+        "width": 443,
+        "height": 116
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "break-confirmation-toast-notification",
+      "features": {
+        "skeleton": "~([T])",
+        "variant": "~w([T|Tb])",
+        "variantClean": "~w([T|Tk])"
+      },
+      "screenshot": "blocks/db715cd7434a.jpg",
+      "html": "blocks/db715cd7434a.html"
+    },
+    {
+      "id": "ddc9c6db9a5e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > div.break-confirmation__info > h5",
+      "bounds": {
+        "x": 499,
+        "y": 1180,
+        "width": 443,
+        "height": 21
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "break-confirmation-info-title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/ddc9c6db9a5e.html"
+    },
+    {
+      "id": "2ed47216e19e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > div.break-confirmation__info > div",
+      "bounds": {
+        "x": 499,
+        "y": 1208,
+        "width": 443,
+        "height": 101
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "break-confirmation-info-body",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tn",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/2ed47216e19e.html"
+    },
+    {
+      "id": "1844009d6e28",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#skip-to-main-content > div > div > div > a",
+      "bounds": {
+        "x": 499,
+        "y": 1322,
+        "width": 99,
+        "height": 20
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "link"
+      },
+      "description": "break-confirmation-link",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tc",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/1844009d6e28.html"
+    },
+    {
+      "id": "ceb7721dec70",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-19ea198e28 > div > div.title.cmp-title--text-lg.cmp-title--blue.cmp-title--text-center.aem-GridColumn.aem-GridColumn--default--12",
+      "bounds": {
+        "x": 140,
+        "y": 1449,
+        "width": 1160,
+        "height": 81
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "title",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tc",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/ceb7721dec70.html"
+    },
+    {
+      "id": "a26f8d351dc7",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-19ea198e28 > div > div.text.aem-GridColumn--offset--xs--0.aem-GridColumn--xs--hide.aem-GridColumn.aem-GridColumn--default--12.aem-GridColumn--xs--12",
+      "bounds": {
+        "x": 140,
+        "y": 1529,
+        "width": 1160,
+        "height": 59
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/a26f8d351dc7.html"
+    },
+    {
+      "id": "170a4cb644b3",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-19ea198e28 > div > div:nth-child(4)",
+      "bounds": {
+        "x": 140,
+        "y": 1588,
+        "width": 290,
+        "height": 80
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/170a4cb644b3.html"
+    },
+    {
+      "id": "9eabc117f3e9",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-19ea198e28 > div > div:nth-child(5)",
+      "bounds": {
+        "x": 430,
+        "y": 1588,
+        "width": 290,
+        "height": 57
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/9eabc117f3e9.html"
+    },
+    {
+      "id": "907bce7cc5ee",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-19ea198e28 > div > div:nth-child(6)",
+      "bounds": {
+        "x": 720,
+        "y": 1588,
+        "width": 290,
+        "height": 57
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/907bce7cc5ee.html"
+    },
+    {
+      "id": "43b3bc720aa0",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-19ea198e28 > div > div:nth-child(7)",
+      "bounds": {
+        "x": 1010,
+        "y": 1588,
+        "width": 290,
+        "height": 57
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "text"
+      },
+      "description": "text",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tb",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/43b3bc720aa0.html"
+    }
+  ]
+}

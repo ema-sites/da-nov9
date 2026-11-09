@@ -1,0 +1,81 @@
+/*
+ * Brand tokens for Atlantic Lottery (alc.ca).
+ * Extracted from https://www.alc.ca/content/alc/en.html (computed styles).
+ * See migration-work/brand.json for the raw extraction.
+ */
+
+:root {
+  /* colors */
+  --background-color: #fff;
+  --text-color: #69727b;
+  --link-color: #006faf;
+  --link-hover-color: #005e95;
+  --light-color: #d4dadf;
+  --dark-color: #4e5b68;
+
+  /* brand palette */
+  --alc-blue: #009ddb;
+  --alc-green: #aaba0a;
+  --alc-navy: #00529b;
+  --alc-sky: #65baf7;
+  --alc-orange: #f29400;
+  --alc-orange-hover: #ff9d00;
+  --alc-gray: #aebbc7;
+
+  /* buttons */
+  --button-color: #006faf;
+  --button-hover-color: #007bc2;
+  --button-focus-color: #005b8f;
+  --button-disabled-color: #d4dadf;
+  --button-text-color: #fff;
+  --button-border-color: #fff;
+  --button-shadow: 0 3px 5px 0 rgb(0 82 155 / 10%);
+  --button-focus-shadow: 0 0 8px 0 #007bc2;
+
+  /* section header label bars */
+  --section-label-color: #fff;
+  --section-label-blue: var(--alc-blue);
+  --section-label-green: var(--alc-green);
+
+  /* fonts */
+  --body-font-family: "Proxima Nova", proxima-nova-fallback, helvetica, arial, sans-serif;
+  --heading-font-family: ubuntu, ubuntu-fallback, helvetica, arial, sans-serif;
+
+  /* body sizes */
+  --body-font-size-m: 16px;
+  --body-font-size-s: 14px;
+  --body-font-size-xs: 12px;
+  --body-line-height: 1.4286;
+
+  /* heading sizes (mobile, source < 768px) */
+  --heading-font-size-xxl: 30px;
+  --heading-font-size-xl: 24px;
+  --heading-font-size-l: 18px;
+  --heading-font-size-m: 16px;
+  --heading-font-size-s: 14px;
+  --heading-font-size-xs: 12px;
+  --heading-line-height: 1.1;
+
+  /* spacing */
+  --content-max-width: 1160px;
+  --content-gutter: 10px;
+  --section-padding: 24px;
+
+  /* nav height */
+  --nav-height: 70px;
+}
+
+@media (width >= 768px) {
+  :root {
+    /* heading sizes (desktop) */
+    --heading-font-size-xxl: 28px;
+    --heading-font-size-xl: 22px;
+    --heading-font-size-l: 18px;
+    --heading-font-size-m: 18px;
+    --heading-font-size-s: 14px;
+    --heading-font-size-xs: 12px;
+
+    /* nav height */
+    --nav-height: 141px;
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "da",
+  "sites": {
+    "da-nov9": {
+      "previewOrg": "ema-sites",
+      "previewSite": "da-nov9",
+      "contentHostUrl": "https://content.da.live/ema-sites/da-nov9/",
+      "libraryUrl": "https://main--sta-boilerplate--aemdemos.aem.page/tools/sidekick/library.json"
+    }
+  }
+}

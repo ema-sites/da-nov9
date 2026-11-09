@@ -1,0 +1,1047 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.alc.ca/content/alc/en/play-online.html",
+  "title": "Atlantic Lottery | Buy Tickets Online, Winning Numbers & More",
+  "timestamp": "2026-11-09T15:48:12.699Z",
+  "duration": "8.7s",
+  "cleanup": {
+    "elementsRemoved": 15,
+    "types": [
+      "popup"
+    ],
+    "cookieConsentDismissed": false,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": [
+      {
+        "selector": "#loginFlow",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      },
+      {
+        "selector": "div.common-modals.aem-GridColumn",
+        "type": "popup",
+        "rule": "body [class*=\"modal\"]:not(nav *)"
+      }
+    ]
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Offers.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/rewards/Sparkler_icon.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_points_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/rewards_entries_icon.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/add_points.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Mail.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Balance_Wallet.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_Wallet.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/icon_proline_tokens.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lottomax.img.png/1711557921551.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto649.img.png/1662887407810.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/dailygrand.img.png/1595411787611.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/lotto.img.png/1595411784994.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/instant-win-games.img.png/1711033977825.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/proline.img.png/1711557988346.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/play-online/subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games.img.png/1595411782846.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/scratch-n-win.img.png/1595411780747.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/lotto.img.png/1595411791161.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/video-lottery.img.png/1711558293081.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/casino.img.png/1711033953086.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/instant-win-games.img.png/1711033977726.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/proline.img.png/1711558304828.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/abonnements-subscriptions.img.png/1595411785761.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/our-games/contests-and-promotions.img.png/1784049786620.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/rewards.img.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepagefca-649-live/_jcr_content/componentPar/external_data/draw-logo.coreimg.svg/1651860040011/logo-lotto649.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Winners/logo/homepage-winners-carousel/ScratchNWin_en.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Winners/logo/homepage-winners-carousel/Lotto649_en.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/rightrailpromo-649-sustain/jcr:content/componentPar/image_promo/imageM.img.jpg/1667440772968.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships/jcr:content/componentPar/image_promo/imageM.img.png/1793393584617.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships3/jcr:content/componentPar/image_promo/imageM.img.jpg/1793626926526.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/new-alc/jcr:content/componentPar/image_promo/imageM.img.jpg/1792142431955.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/ALC-header-logo.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/browser-icons/chrome_browser_icon.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Footer/19Knowyourlimit-en.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-ask-awayEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-red-shoresEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-rgcheckEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/logo-wlaEN.png",
+      "type": "img"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/rightrailpromo-649-sustain/jcr:content/componentPar/image_promo/imageD.img.jpg/1667440772968.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/rightrailpromo-649-sustain/jcr:content/componentPar/image_promo/imageT.img.jpg/1667440772968.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/rightrailpromo-649-sustain/jcr:content/componentPar/image_promo/imageM.img.jpg/1667440772968.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships/jcr:content/componentPar/image_promo/imageD.img.png/1793393584617.png",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships/jcr:content/componentPar/image_promo/imageT.img.png/1793393584617.png",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships/jcr:content/componentPar/image_promo/imageM.img.png/1793393584617.png",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships3/jcr:content/componentPar/image_promo/imageD.img.jpg/1793626926526.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships3/jcr:content/componentPar/image_promo/imageT.img.jpg/1793626926526.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/right-rail-sponsorships3/jcr:content/componentPar/image_promo/imageM.img.jpg/1793626926526.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/new-alc/jcr:content/componentPar/image_promo/imageD.img.jpg/1792142431955.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/new-alc/jcr:content/componentPar/image_promo/imageT.img.jpg/1792142431955.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/Other/new-alc/jcr:content/componentPar/image_promo/imageM.img.jpg/1792142431955.jpg",
+      "type": "picture"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/game-tiles/ALC-header-logo-en.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-sprite-2.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Dashboard_Clock.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/spinner.svg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/Wallet_Dollar_Sign.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/navigation/Side-image-for-Mega-Menu.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/html_promo/imageD.img.png/1789563420374.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepagefca-649-live/_jcr_content/componentPar/external_data.coreimg.jpeg/1764948034319/homepage-carouseljackpot-649-classic-10-28-r-1900x930.jpeg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-fca-iw-2chance-promo/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.jpg/1790004890307.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-rg-promo/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.jpg/1793627076772.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/homepage-fca-IW/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.jpg/1793716102547.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/referenced-content/carousel-slides/homepage-fca-carousel/HomepageFCA-PROLINE/jcr:content/componentPar/fca_carousel_slide_p/imageD.img.jpg/1791573582423.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/winners-carousel/winners-carousel-bg-generic.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/winners-carousel/NS.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Winners/NS/Jodine%20Baker%20$2,000,000%20VAULT%20Halifax%20NS%20Website.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Winners/NB/Michael%20and%20Patricia%20Doiron%20-%20$500,000%20-%20Mega%20360%20Million%20-%20Halifax%20NS.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/winners-carousel/NL.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Winners/NL/Sharon%20and%20Morris%20Madore%202026-08-20.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/winners-carousel/NB.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Winners/NB/Carl%20Kennedy%20and%20Deanna%20MacFarlane%20-%20$1,000,000%20-%20Lotto%20649%20Gold%20Ball%20-%20Debec%20NB.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355.img.jpg/1789563420435.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_8ecd_copy.img.jpg/1789563420449.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/Homepage/GOLD_BALL_EN.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_402382965_.img.jpg/1791636652973.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_402382965__157540270.img.jpg/1791309171543.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355_2073844692.img.jpg/1793294280385.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/sprites/ALC-Sprite.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355_681114146.img.jpg/1793627843486.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/alc/en/jcr:content/root/container/container/container/game_tile_1034997355_1742306890.img.jpg/1789563420513.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/Facebook.png",
+      "type": "background"
+    },
+    {
+      "url": "https://www.alc.ca/content/dam/alc/images/static/footer/instagram.png",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(s,s,s(s(s(sB,3x1B),sB,sB(9x1(,,,,,,,,),4x1)),s(sB,2x1)))",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "body > div:nth-of-type(1)",
+      "rc2": "body > div.cmp-page__skiptomaincontent",
+      "rc3": "body > div.root.responsivegrid",
+      "rc3c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+      "rc3c1c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.carousel.list.parbase.hero",
+      "rc3c1c1c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.carousel.list.parbase.hero > div.alc-carousel.reveal > ul.slides",
+      "rc3c1c1c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.carousel.list.parbase.hero > div.alc-carousel.reveal > div.controls",
+      "rc3c1c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.section-header.cmp-section-header--alc-blue",
+      "rc3c1c3": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase",
+      "rc3c1c3c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.winners_carousel.winners-carousel.carousel.panelcontainer > div.carousel-inner-container > div.winners-carousel-slides.slick-initialized.slick-slider.slick-dotted > div.slick-list.draggable",
+      "rc3c1c3c1c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.winners_carousel.winners-carousel.carousel.panelcontainer > div.carousel-inner-container > div.winners-carousel-slides.slick-initialized.slick-slider.slick-dotted > div.slick-list.draggable > div.slick-track > div.slick-slide.slick-cloned:nth-of-type(1)",
+      "rc3c1c3c1c2": "#slick-slide00",
+      "rc3c1c3c1c3": "#slick-slide01",
+      "rc3c1c3c1c4": "#slick-slide02",
+      "rc3c1c3c1c5": "#slick-slide03",
+      "rc3c1c3c1c6": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.winners_carousel.winners-carousel.carousel.panelcontainer > div.carousel-inner-container > div.winners-carousel-slides.slick-initialized.slick-slider.slick-dotted > div.slick-list.draggable > div.slick-track > div.slick-slide.slick-cloned:nth-of-type(6)",
+      "rc3c1c3c1c7": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.winners_carousel.winners-carousel.carousel.panelcontainer > div.carousel-inner-container > div.winners-carousel-slides.slick-initialized.slick-slider.slick-dotted > div.slick-list.draggable > div.slick-track > div.slick-slide.slick-cloned:nth-of-type(7)",
+      "rc3c1c3c1c8": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.winners_carousel.winners-carousel.carousel.panelcontainer > div.carousel-inner-container > div.winners-carousel-slides.slick-initialized.slick-slider.slick-dotted > div.slick-list.draggable > div.slick-track > div.slick-slide.slick-cloned:nth-of-type(8)",
+      "rc3c1c3c1c9": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.winners_carousel.winners-carousel.carousel.panelcontainer > div.carousel-inner-container > div.winners-carousel-slides.slick-initialized.slick-slider.slick-dotted > div.slick-list.draggable > div.slick-track > div.slick-slide.slick-cloned:nth-of-type(9)",
+      "rc3c1c3c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3) > div.cmp-container > div.reference.parbase > div.cq-dd-paragraph > div.winners_carousel.winners-carousel.carousel.panelcontainer > div.carousel-inner-container > div.winners-carousel-slides.slick-initialized.slick-slider.slick-dotted > ul.slick-dots",
+      "rc3c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(4)",
+      "rc3c2c1": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(4) > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.section-header.cmp-section-header--alc-green.aem-GridColumn.aem-GridColumn--default--12",
+      "rc3c2c2": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(4) > div.cmp-container > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > main.alc-container.cmp-container--fixed.cmp-container--padding-small.cmp-container--show-column-gutters.aem-GridColumn.aem-GridColumn--default--12"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "body > div:nth-of-type(1)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "body > div.cmp-page__skiptomaincontent",
+        "layout": null,
+        "hasBg": false,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc3",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(3)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc4",
+        "selector": "body > div.root.responsivegrid > div.aem-Grid.aem-Grid--12.aem-Grid--default--12.aem-Grid--xs--12 > div.alc-container.aem-GridColumn.aem-GridColumn--default--12:nth-of-type(4)",
+        "layout": null,
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 950.640625,
+      "height": 1815.796875
+    },
+    "splits": [
+      {
+        "selector": "div.aem-Grid.aem-Grid--12 > div.alc-container.cmp-container--hide-column-gutters",
+        "sides": [
+          [
+            0.6666711566696749,
+            1
+          ]
+        ],
+        "top": 1014.4375,
+        "bottom": 2742.4375,
+        "cover": 0.9516482949118414,
+        "above": 0
+      }
+    ],
+    "start": {
+      "kind": "heading",
+      "look": {
+        "font": "Ubuntu, Helvetica, Arial, sans-serif",
+        "color": "rgb(255, 255, 255)",
+        "align": "start"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "13b00cac398c",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#container-8dc56c521a > div.carousel.list.parbase.hero",
+      "bounds": {
+        "x": 0,
+        "y": 141,
+        "width": 1440,
+        "height": 525
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "list + image + link + button"
+      },
+      "description": "carousel",
+      "features": {
+        "skeleton": "{~@(~(T) [T|~([T])] [~(T)] T) [button|[button]]}",
+        "variant": "{~@(~w(Tb) [T|~b([Tw])] [~w(Tb)] [~b(Tw)|~w(Tb)] Tw) [button|[button]]}",
+        "variantClean": "{~@(~w(Tk) [T|~b([Tw])] [~w(Tk)] [~b(Tw)|~w(Tk)] Tw) [button|[button]]}"
+      },
+      "screenshot": "blocks/13b00cac398c.jpg",
+      "html": "blocks/13b00cac398c.html"
+    },
+    {
+      "id": "3647778ccad9",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#container-8dc56c521a > div.section-header.cmp-section-header--alc-blue",
+      "bounds": {
+        "x": 0,
+        "y": 666,
+        "width": 1440,
+        "height": 40
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "section-header",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~c(Tw)",
+        "variantClean": "~c(Tw)"
+      },
+      "screenshot": "blocks/3647778ccad9.jpg",
+      "html": "blocks/3647778ccad9.html"
+    },
+    {
+      "id": "2b8e5bcbcf45",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#container-8dc56c521a > div.reference.parbase > div > div > div > div",
+      "bounds": {
+        "x": 0,
+        "y": 706,
+        "width": 1440,
+        "height": 275
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "dense",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + link + text + image + list + button"
+      },
+      "description": "winners-carousel-slides",
+      "features": {
+        "skeleton": "{~@({~@ [~@|T|~(T)]}) [tab]}",
+        "variant": "{~@({~@ [~@|Tw|~r(Tw) ~w(Tb)]}) [tab]}",
+        "variantClean": "{~@({~@ [~@|Tw|~r(Tw) ~w(Tk)]}) [tab]}"
+      },
+      "screenshot": "blocks/2b8e5bcbcf45.jpg",
+      "html": "blocks/2b8e5bcbcf45.html"
+    },
+    {
+      "id": "6151c1e25b33",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#game_tile_1034997355-cac5dab2-c019-4b60-9bf7-fb136ad42916 > div.game-tile-image-container",
+      "bounds": {
+        "x": 160,
+        "y": 1014,
+        "width": 357,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "game-tile-image-container",
+      "features": {
+        "skeleton": "~@([~(T)*3|~|~([T])*3])",
+        "variant": "~@([~b(To)*3|~b|~b([Tw])*3])",
+        "variantClean": "~@([~b(Tw)*3|~b|~b([Tw])*3])"
+      },
+      "screenshot": "blocks/6151c1e25b33.jpg",
+      "html": "blocks/6151c1e25b33.html"
+    },
+    {
+      "id": "4d7b7d77c0ab",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_1034997355-cac5dab2-c019-4b60-9bf7-fb136ad42916 > div.game-tile-content",
+      "bounds": {
+        "x": 160,
+        "y": 1199,
+        "width": 357,
+        "height": 220
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "game-tile-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~s(Tgnw)",
+        "variantClean": "~s(Tk)"
+      },
+      "screenshot": "blocks/4d7b7d77c0ab.jpg",
+      "html": "blocks/4d7b7d77c0ab.html"
+    },
+    {
+      "id": "0aa4607ab8d5",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#game_tile_8ecd_copy-28ec135a-9549-4cc7-922a-d3490788e1fd > div.game-tile-image-container",
+      "bounds": {
+        "x": 537,
+        "y": 1014,
+        "width": 357,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": true,
+        "structure": ""
+      },
+      "description": "game-tile-image-container",
+      "features": {
+        "skeleton": "~@([~(T)*3|~|~*3])",
+        "variant": "~@([~b(To)*3|~b|~b*3])",
+        "variantClean": "~@([~b(Tw)*3|~b|~b*3])"
+      },
+      "screenshot": "blocks/0aa4607ab8d5.jpg",
+      "html": "blocks/0aa4607ab8d5.html"
+    },
+    {
+      "id": "9291901be422",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_8ecd_copy-28ec135a-9549-4cc7-922a-d3490788e1fd > div.game-tile-content",
+      "bounds": {
+        "x": 537,
+        "y": 1199,
+        "width": 357,
+        "height": 220
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "game-tile-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~s(Tcgnw)",
+        "variantClean": "~s(Tk)"
+      },
+      "screenshot": "blocks/9291901be422.jpg",
+      "html": "blocks/9291901be422.html"
+    },
+    {
+      "id": "5135fb575905",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_402382965_-7b151033-7854-4f2b-843f-9d391169406e > div.game-tile-image-container",
+      "bounds": {
+        "x": 160,
+        "y": 1446,
+        "width": 357,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "game-tile-image-container",
+      "features": {
+        "skeleton": "~@",
+        "variant": "~@",
+        "variantClean": "~@"
+      },
+      "screenshot": "blocks/5135fb575905.jpg",
+      "html": "blocks/5135fb575905.html"
+    },
+    {
+      "id": "1b99fc272af0",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_402382965_-7b151033-7854-4f2b-843f-9d391169406e > div.game-tile-content",
+      "bounds": {
+        "x": 160,
+        "y": 1631,
+        "width": 357,
+        "height": 220
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "game-tile-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~s(Tnw)",
+        "variantClean": "~s(Tk)"
+      },
+      "screenshot": "blocks/1b99fc272af0.jpg",
+      "html": "blocks/1b99fc272af0.html"
+    },
+    {
+      "id": "34ae704c3442",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_402382965__157540270-88d10170-5d73-4490-b083-21f89852f733 > div.game-tile-image-container",
+      "bounds": {
+        "x": 537,
+        "y": 1446,
+        "width": 357,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "game-tile-image-container",
+      "features": {
+        "skeleton": "~@",
+        "variant": "~@",
+        "variantClean": "~@"
+      },
+      "screenshot": "blocks/34ae704c3442.jpg",
+      "html": "blocks/34ae704c3442.html"
+    },
+    {
+      "id": "85e9f158b301",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_402382965__157540270-88d10170-5d73-4490-b083-21f89852f733 > div.game-tile-content",
+      "bounds": {
+        "x": 537,
+        "y": 1631,
+        "width": 357,
+        "height": 220
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "game-tile-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~s(Tnw)",
+        "variantClean": "~s(Tk)"
+      },
+      "screenshot": "blocks/85e9f158b301.jpg",
+      "html": "blocks/85e9f158b301.html"
+    },
+    {
+      "id": "b91bcda721b3",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_1034997355_2073844692-0f363378-63a5-4197-9462-cbc54ce7c7b7 > div.game-tile-image-container",
+      "bounds": {
+        "x": 160,
+        "y": 1878,
+        "width": 357,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "game-tile-image-container",
+      "features": {
+        "skeleton": "~@(T)",
+        "variant": "~@(Tn)",
+        "variantClean": "~@(Tk)"
+      },
+      "screenshot": "blocks/b91bcda721b3.jpg",
+      "html": "blocks/b91bcda721b3.html"
+    },
+    {
+      "id": "91da781fe403",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_1034997355_2073844692-0f363378-63a5-4197-9462-cbc54ce7c7b7 > div.game-tile-content",
+      "bounds": {
+        "x": 160,
+        "y": 2063,
+        "width": 357,
+        "height": 220
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "game-tile-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~s(Tnw)",
+        "variantClean": "~s(Tk)"
+      },
+      "screenshot": "blocks/91da781fe403.jpg",
+      "html": "blocks/91da781fe403.html"
+    },
+    {
+      "id": "b1b56938e0cf",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_1034997355_681114146-bc4e7dff-c5ac-4a28-bfa1-603161efc652 > div.game-tile-image-container",
+      "bounds": {
+        "x": 537,
+        "y": 1878,
+        "width": 357,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "game-tile-image-container",
+      "features": {
+        "skeleton": "~@(T)",
+        "variant": "~@(Tn)",
+        "variantClean": "~@(Tk)"
+      },
+      "screenshot": "blocks/b1b56938e0cf.jpg",
+      "html": "blocks/b1b56938e0cf.html"
+    },
+    {
+      "id": "8cd0cc80d62e",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_1034997355_681114146-bc4e7dff-c5ac-4a28-bfa1-603161efc652 > div.game-tile-content",
+      "bounds": {
+        "x": 537,
+        "y": 2063,
+        "width": 357,
+        "height": 220
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "game-tile-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~s(Tnw)",
+        "variantClean": "~s(Tk)"
+      },
+      "screenshot": "blocks/8cd0cc80d62e.jpg",
+      "html": "blocks/8cd0cc80d62e.html"
+    },
+    {
+      "id": "58425844c1f5",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_1034997355_1742306890-02af67bc-7721-4e81-8187-acf26a58463b > div.game-tile-image-container",
+      "bounds": {
+        "x": 160,
+        "y": 2310,
+        "width": 357,
+        "height": 185
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": ""
+      },
+      "description": "game-tile-image-container",
+      "features": {
+        "skeleton": "~@(T)",
+        "variant": "~@(Tn)",
+        "variantClean": "~@(Tk)"
+      },
+      "screenshot": "blocks/58425844c1f5.jpg",
+      "html": "blocks/58425844c1f5.html"
+    },
+    {
+      "id": "64a15090f83f",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#game_tile_1034997355_1742306890-02af67bc-7721-4e81-8187-acf26a58463b > div.game-tile-content",
+      "bounds": {
+        "x": 160,
+        "y": 2495,
+        "width": 357,
+        "height": 220
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "game-tile-content",
+      "features": {
+        "skeleton": "~(T)",
+        "variant": "~s(Tnw)",
+        "variantClean": "~s(Tk)"
+      },
+      "screenshot": "blocks/64a15090f83f.jpg",
+      "html": "blocks/64a15090f83f.html"
+    },
+    {
+      "id": "08ac506014b2",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-2d51d40eb8 > div:nth-child(1)",
+      "bounds": {
+        "x": 923,
+        "y": 1024,
+        "width": 367,
+        "height": 639
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "link + image"
+      },
+      "description": "reference",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/08ac506014b2.html"
+    },
+    {
+      "id": "c8928111765f",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-2d51d40eb8 > div:nth-child(2)",
+      "bounds": {
+        "x": 923,
+        "y": 1674,
+        "width": 367,
+        "height": 261
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "link + image"
+      },
+      "description": "reference",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/c8928111765f.html"
+    },
+    {
+      "id": "8b6f9a4b096a",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-2d51d40eb8 > div:nth-child(3)",
+      "bounds": {
+        "x": 923,
+        "y": 1945,
+        "width": 367,
+        "height": 261
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "link + image"
+      },
+      "description": "reference",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/8b6f9a4b096a.html"
+    },
+    {
+      "id": "ab46e7619e8b",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#container-2d51d40eb8 > div:nth-child(4)",
+      "bounds": {
+        "x": 923,
+        "y": 2217,
+        "width": 367,
+        "height": 261
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "link + image"
+      },
+      "description": "reference",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/ab46e7619e8b.html"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "projectType": "da"
+  },
+  "templates": [
+    {
+      "name": "alc",
+      "urls": [
+        "https://www.alc.ca/content/alc/en.html"
+      ],
+      "representativeUrl": "https://www.alc.ca/content/alc/en.html",
+      "description": "Atlantic Lottery homepage: promo carousel, recent winners carousel, featured game tiles with a promo image rail",
+      "blocks": [
+        {
+          "name": "carousel-promo",
+          "instances": [
+            ".carousel.list.parbase.hero",
+            ".carousel.hero"
+          ]
+        },
+        {
+          "name": "carousel-winners",
+          "instances": [
+            ".winners_carousel.winners-carousel",
+            ".winners-carousel"
+          ]
+        },
+        {
+          "name": "cards-game-tile",
+          "instances": [
+            ".cmp-container--game-tiles"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero promo carousel",
+          "selector": [
+            ".carousel.list.parbase.hero",
+            ".carousel.hero"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-promo"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Recent winners",
+          "selector": [
+            ".section-header.cmp-section-header--alc-blue",
+            ".cmp-section-header--alc-blue"
+          ],
+          "style": null,
+          "blocks": [
+            "carousel-winners"
+          ],
+          "defaultContent": [
+            ".cmp-section-header--alc-blue .cmp-section-header__title"
+          ]
+        },
+        {
+          "id": "section-3",
+          "name": "Featured games and promotions",
+          "selector": [
+            ".alc-container:has(> .cmp-container > .aem-Grid > .cmp-section-header--alc-green)",
+            ".section-header.cmp-section-header--alc-green"
+          ],
+          "style": "split",
+          "blocks": [
+            "cards-game-tile"
+          ],
+          "defaultContent": [
+            ".cmp-section-header--alc-green .cmp-section-header__title",
+            ".cmp-container--hide-column-gutters .cmp-image"
+          ]
+        }
+      ],
+      "urlPattern": "/content/alc/*"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 2,
+  "url": "https://www.alc.ca/content/alc/en/corporate/about-atlantic-lottery/theticket.html",
+  "title": "The Ticket – Atlantic Lottery Corporation",
+  "timestamp": "2026-11-09T15:49:54.526Z",
+  "duration": "9.3s",
+  "cleanup": {
+    "elementsRemoved": 0,
+    "types": [],
+    "cookieConsentDismissed": false,
+    "lateConsentOverlaysRemoved": 0,
+    "removed": []
+  },
+  "snapshot": {
+    "html": "page.html",
+    "unresolvedSelectors": []
+  },
+  "images": [
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2018/12/logo-theTicket.png",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/themes/atlanticlottery/images/wave.svg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2026/07/DSC04452-2-325x208.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2026/03/1701719302-artwork-325x208.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2026/09/CaraquetGroupPhoto-325x208.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2025/12/UW-cheque-presentation-2025-325x208.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2026/10/Post-1.2-325x208.png",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2026/05/download-2026-05-12T095441.584-325x208.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2026/10/Bob-Muise-and-wife-Anita-325x208.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2024/11/DSC09416-top-325x208.jpg",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2025/10/LotteryDollar_2025_en_sm-1.png",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2018/12/img-06.png",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2018/09/alc.png",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2018/09/AskAway.png",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2018/09/red-shores.png",
+      "type": "img"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2026/02/Couple-50th-Right-Side-English-e1770053106355.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2025/09/Mary-Hosford-72x72.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2025/07/AL_FlagEntrance_small-72x72.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2019/10/Stay-Informed-Stay-Safe-edit-72x72.jpg",
+      "type": "background"
+    },
+    {
+      "url": "https://theticket.alc.ca/wp-content/uploads/2025/10/V8A5120-72x72.jpg",
+      "type": "background"
+    }
+  ],
+  "skeleton": {
+    "signature": "sB(sB,2x1)",
+    "nodeMap": {
+      "r": "body",
+      "rc1": "#main > section.section-banner.aa",
+      "rc2": "#main > div.container"
+    },
+    "sections": [
+      {
+        "id": "rc1",
+        "selector": "#main > section.section-banner.aa",
+        "layout": null,
+        "hasBg": true,
+        "hint": "default-content",
+        "background": "#ffffff",
+        "backgroundImage": "url",
+        "colored": false,
+        "paintSelector": null
+      },
+      {
+        "id": "rc2",
+        "selector": "#main > div.container",
+        "layout": "2x1",
+        "hasBg": false,
+        "hint": "block",
+        "background": "#ffffff",
+        "backgroundImage": null,
+        "colored": false,
+        "paintSelector": null
+      }
+    ],
+    "invalidIgnore": []
+  },
+  "pageLayout": {
+    "box": {
+      "y": 137.25,
+      "height": 3341.90625
+    },
+    "splits": [
+      {
+        "selector": "div.content-column > aside#sidebar",
+        "sides": [
+          [
+            0.66,
+            1
+          ]
+        ],
+        "top": 749.25,
+        "bottom": 3474.15625,
+        "cover": 0.8153748328517594,
+        "above": 0
+      }
+    ],
+    "start": {
+      "kind": "text on photo"
+    }
+  },
+  "blocks": [
+    {
+      "id": "1921e0846eb8",
+      "type": "unknown",
+      "detectionTier": 2,
+      "selector": "#main > section",
+      "bounds": {
+        "x": 0,
+        "y": 137,
+        "width": 1440,
+        "height": 601
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "heading + text + link"
+      },
+      "description": "section-banner",
+      "features": {
+        "skeleton": "~@(T)",
+        "variant": "~@(Tw)",
+        "variantClean": "~@(Tw)"
+      },
+      "screenshot": "blocks/1921e0846eb8.jpg",
+      "html": "blocks/1921e0846eb8.html"
+    },
+    {
+      "id": "27cc0e911bfd",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#now-next > div.title-box",
+      "bounds": {
+        "x": 208,
+        "y": 798,
+        "width": 677,
+        "height": 37
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + link"
+      },
+      "description": "title-box",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tkn",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/27cc0e911bfd.jpg",
+      "html": "blocks/27cc0e911bfd.html"
+    },
+    {
+      "id": "742554c18f14",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#now-next > div.df-row",
+      "bounds": {
+        "x": 193,
+        "y": 867,
+        "width": 707,
+        "height": 608
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + link + text + image"
+      },
+      "description": "df-row",
+      "features": {
+        "skeleton": "[~(T ~@(T))]",
+        "variant": "[~s(Tkn ~@(T))]",
+        "variantClean": "[~s(Tk ~@(T))]",
+        "set": true
+      },
+      "screenshot": "blocks/742554c18f14.jpg",
+      "html": "blocks/742554c18f14.html"
+    },
+    {
+      "id": "9cb9e851b944",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#community-proud > div.title-box",
+      "bounds": {
+        "x": 208,
+        "y": 1516,
+        "width": 677,
+        "height": 37
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + link"
+      },
+      "description": "title-box",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tkn",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/9cb9e851b944.jpg",
+      "html": "blocks/9cb9e851b944.html"
+    },
+    {
+      "id": "74257c3609dd",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#community-proud > div.df-row",
+      "bounds": {
+        "x": 193,
+        "y": 1585,
+        "width": 707,
+        "height": 567
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + link + text + image"
+      },
+      "description": "df-row",
+      "features": {
+        "skeleton": "[~(T ~@(T))]",
+        "variant": "[~s(Tkn ~@(T))]",
+        "variantClean": "[~s(Tk ~@(T))]",
+        "set": true
+      },
+      "screenshot": "blocks/74257c3609dd.jpg",
+      "html": "blocks/74257c3609dd.html"
+    },
+    {
+      "id": "00e79e9c2454",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#responsible-regulated > div.title-box",
+      "bounds": {
+        "x": 208,
+        "y": 2192,
+        "width": 677,
+        "height": 37
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + link"
+      },
+      "description": "title-box",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tkn",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/00e79e9c2454.jpg",
+      "html": "blocks/00e79e9c2454.html"
+    },
+    {
+      "id": "f49a0912d5a1",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#responsible-regulated > div.df-row",
+      "bounds": {
+        "x": 193,
+        "y": 2261,
+        "width": 707,
+        "height": 542
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + link + text + image"
+      },
+      "description": "df-row",
+      "features": {
+        "skeleton": "[~(T ~@(T))]",
+        "variant": "[~s(Tkn ~@(T))]",
+        "variantClean": "[~s(Tk ~@(T))]",
+        "set": true
+      },
+      "screenshot": "blocks/f49a0912d5a1.jpg",
+      "html": "blocks/f49a0912d5a1.html"
+    },
+    {
+      "id": "591b52cd103a",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#atlantic-wins > div.title-box",
+      "bounds": {
+        "x": 208,
+        "y": 2843,
+        "width": 677,
+        "height": 37
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + link"
+      },
+      "description": "title-box",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tkn",
+        "variantClean": "Tk"
+      },
+      "screenshot": "blocks/591b52cd103a.jpg",
+      "html": "blocks/591b52cd103a.html"
+    },
+    {
+      "id": "1649652f5002",
+      "type": "cards",
+      "detectionTier": 1,
+      "selector": "#atlantic-wins > div.df-row",
+      "bounds": {
+        "x": 193,
+        "y": 2912,
+        "width": 707,
+        "height": 542
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "heading + link + text + image"
+      },
+      "description": "df-row",
+      "features": {
+        "skeleton": "[~(T ~@(T))]",
+        "variant": "[~s(Tkn ~@(T))]",
+        "variantClean": "[~s(Tk ~@(T))]",
+        "set": true
+      },
+      "screenshot": "blocks/1649652f5002.jpg",
+      "html": "blocks/1649652f5002.html"
+    },
+    {
+      "id": "3b70574e11a0",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-3 > h3",
+      "bounds": {
+        "x": 909,
+        "y": 778,
+        "width": 324,
+        "height": 77
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tk",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/3b70574e11a0.html"
+    },
+    {
+      "id": "ced22d708998",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#text-3 > div",
+      "bounds": {
+        "x": 909,
+        "y": 877,
+        "width": 324,
+        "height": 226
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "large",
+        "hasGrid": false,
+        "structure": "link + image"
+      },
+      "description": "textwidget",
+      "features": {
+        "skeleton": "T",
+        "variant": "T",
+        "variantClean": "T"
+      },
+      "screenshot": null,
+      "html": "blocks/ced22d708998.html"
+    },
+    {
+      "id": "047ad953913e",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#trending_posts_widget-2 > h3",
+      "bounds": {
+        "x": 909,
+        "y": 1171,
+        "width": 324,
+        "height": 45
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tk",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/047ad953913e.html"
+    },
+    {
+      "id": "f6125271efb7",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#trending_posts_widget-2 > div > div > div:nth-child(1)",
+      "bounds": {
+        "x": 909,
+        "y": 1238,
+        "width": 324,
+        "height": 111
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + heading"
+      },
+      "description": "trending-item",
+      "features": {
+        "skeleton": "[~@|T]",
+        "variant": "[~@|Tkn]",
+        "variantClean": "[~@|Tk]"
+      },
+      "screenshot": "blocks/f6125271efb7.jpg",
+      "html": "blocks/f6125271efb7.html"
+    },
+    {
+      "id": "2349d3f1b7e0",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#trending_posts_widget-2 > div > div > div:nth-child(2)",
+      "bounds": {
+        "x": 909,
+        "y": 1350,
+        "width": 324,
+        "height": 122
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + heading"
+      },
+      "description": "trending-item",
+      "features": {
+        "skeleton": "[~@|T]",
+        "variant": "[~@|Tkn]",
+        "variantClean": "[~@|Tk]"
+      },
+      "screenshot": "blocks/2349d3f1b7e0.jpg",
+      "html": "blocks/2349d3f1b7e0.html"
+    },
+    {
+      "id": "9190f2744c61",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#trending_posts_widget-2 > div > div > div:nth-child(3)",
+      "bounds": {
+        "x": 909,
+        "y": 1472,
+        "width": 324,
+        "height": 83
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + heading"
+      },
+      "description": "trending-item",
+      "features": {
+        "skeleton": "[~@|T]",
+        "variant": "[~@|Tkn]",
+        "variantClean": "[~@|Tk]"
+      },
+      "screenshot": "blocks/9190f2744c61.jpg",
+      "html": "blocks/9190f2744c61.html"
+    },
+    {
+      "id": "68c7067a1e15",
+      "type": "columns",
+      "detectionTier": 1,
+      "selector": "#trending_posts_widget-2 > div > div > div:nth-child(4)",
+      "bounds": {
+        "x": 909,
+        "y": 1555,
+        "width": 324,
+        "height": 102
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": true,
+        "structure": "link + heading"
+      },
+      "description": "trending-item",
+      "features": {
+        "skeleton": "[~@|T]",
+        "variant": "[~@|Tkn]",
+        "variantClean": "[~@|Tk]"
+      },
+      "screenshot": "blocks/68c7067a1e15.jpg",
+      "html": "blocks/68c7067a1e15.html"
+    },
+    {
+      "id": "885dbf3b712c",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#search-2 > h3",
+      "bounds": {
+        "x": 909,
+        "y": 1725,
+        "width": 324,
+        "height": 45
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading"
+      },
+      "description": "",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tk",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/885dbf3b712c.html"
+    },
+    {
+      "id": "7a35901aa88a",
+      "type": "unknown",
+      "detectionTier": 1,
+      "selector": "#search-2 > form",
+      "bounds": {
+        "x": 909,
+        "y": 1792,
+        "width": 324,
+        "height": 37
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "minimal",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "field + button"
+      },
+      "description": "search-form",
+      "features": {
+        "skeleton": "form",
+        "variant": "form",
+        "variantClean": "form"
+      },
+      "screenshot": "blocks/7a35901aa88a.jpg",
+      "html": "blocks/7a35901aa88a.html"
+    },
+    {
+      "id": "eb9b96e33d6c",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#recent-posts-2",
+      "bounds": {
+        "x": 909,
+        "y": 1878,
+        "width": 324,
+        "height": 317
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + list + link"
+      },
+      "description": "widget-odd",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tck",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/eb9b96e33d6c.html"
+    },
+    {
+      "id": "8d83af7f2f9f",
+      "type": "default-content",
+      "detectionTier": 1,
+      "selector": "#categories-2",
+      "bounds": {
+        "x": 909,
+        "y": 2234,
+        "width": 324,
+        "height": 177
+      },
+      "visualChars": {
+        "colorScheme": "light",
+        "density": "moderate",
+        "imagePattern": "noimg",
+        "hasGrid": false,
+        "structure": "heading + list + link"
+      },
+      "description": "widget-even",
+      "features": {
+        "skeleton": "T",
+        "variant": "Tck",
+        "variantClean": "Tk"
+      },
+      "screenshot": null,
+      "html": "blocks/8d83af7f2f9f.html"
+    }
+  ]
+}

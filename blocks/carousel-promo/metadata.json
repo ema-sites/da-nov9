@@ -1,0 +1,18 @@
+{
+  "variantName": "carousel-promo",
+  "baseBlock": "carousel",
+  "canonicalModel": "collection",
+  "visualCharacteristics": {
+    "purpose": "Full-width rotating promotional banners at the top of the page",
+    "description": "Full-bleed image banner slides (5 on source) with mostly baked-in text; one slide can overlay text and a CTA. Bottom control bar with prev arrow, dot pagination and next arrow."
+  },
+  "contentPattern": {
+    "structure": "cell 1 = banner image (mandatory; may be wrapped in a link for image-only slides); cell 2 (optional) = overlay text: heading, description, CTA link",
+    "description": "Interactive rotating component with arrows and dots; each slide is image plus optional text/CTA."
+  },
+  "options": [],
+  "memberVariantIds": [],
+  "usage": "Hero-position promo rotator with two or more image banners. A single row renders a static banner with no controls.",
+  "reuseGuidance": "Use for full-width image banners whose text is mostly part of the artwork. For winner spotlights use carousel-winners.",
+  "sourceUrl": "https://www.alc.ca/content/alc/en.html"
+}
